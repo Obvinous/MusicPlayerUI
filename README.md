@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen_Recording_20231203_121718](https://github.com/Obvinous/MusicPlayerUI/assets/140268164/107f78eb-0126-470c-9b9d-07f45fe8da16)
